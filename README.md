@@ -1,5 +1,7 @@
 Here is a clear, team-friendly README.md file template that explains the project and guides collaborators on how to get started and contribute effectively:
 
+
+~~ MAKE SURE CREATE TO FOLDER " FRONTEND " AND " BACKEND " THEN UPDATE THE OR WITE THE CODE 
 ```markdown
 # React Tailwind CSS Project
 
